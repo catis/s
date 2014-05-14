@@ -1,0 +1,19 @@
+{
+    "name": "dbankurl",
+    "description": "Extract urls for thunder(XunLei) from DBank service.",
+    "version": "0.0.1",
+    "keywords": ["url", "xunlei", "thunder", "dbank"],
+
+    "maintainers": [
+        {
+            "name": "Catis Zen",
+            "email": "catiszen@gmail.com"
+        }
+    ],
+
+    "dependencies": {
+        "js-base64": "~2.1.5",
+        "md5": "~1.0.0",
+        "request": "~2.34.0"
+    }
+}
